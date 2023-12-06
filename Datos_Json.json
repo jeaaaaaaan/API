@@ -1,0 +1,6 @@
+[
+    {"empresa_de_cine": "CINEMARK", "ciudad": "BARRANQUILLA", "valor": 20.0},
+    {"empresa_de_cine": "CINEMARK", "ciudad": "SUCRE", "valor": 30.0},
+    {"empresa_de_cine": "CINEPOLIS", "ciudad": "BARRANQUILLA", "valor": 15.0},
+    {"empresa_de_cine": "CINEPOLIS", "ciudad": "SUCRE", "valor": 46.0}
+]
